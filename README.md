@@ -9,6 +9,4 @@ Aplikacja w dockerze
 
 Uruchomienie
 1. docker build -t node .
-2. docker run -p 5000:5000 node
-albo
-2. docker-compose up
+2. docker run -p 5000:5000 node **lub** docker-compose up
